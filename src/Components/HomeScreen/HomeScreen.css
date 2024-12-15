@@ -1,0 +1,75 @@
+/* Genel ayarlar */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+/* Carousel için ayarlar */
+.carousel-custom {
+  width: 100%; /* Carousel genişliği */
+  max-height: 400px; /* Maksimum yükseklik */
+  overflow: hidden; /* Taşan alanları gizle */
+  margin-bottom: 20px; /* Aşağıda yeterli alan bırak */
+  padding: 0 15px; /* Kenarlarda boşluk bırak */
+}
+
+.carousel-custom .carousel-item {
+  height: 100%; /* Carousel içindeki öğelerin yüksekliği */
+}
+
+.carousel-custom .carousel-item img {
+  width: 100%; /* Resim genişliği */
+  height: auto; /* Yükseklik otomatik ayarlansın */
+  object-fit: cover; /* Resmin alanı kaplamasını sağlar */
+}
+
+/* Kart ayarları */
+.card {
+  border: none; /* Kartların kenar çerçevesini kaldır */
+  border-radius: 10px; /* Kart kenarlarını yuvarlat */
+  margin: 1px auto; /* Kartlar arasında boşluk bırak ve ortala */
+  max-width: 250px; /* Kartların maksimum genişliği */
+  height: 300px; /* Kart yüksekliği */
+  transition: transform 0.3s; /* Hover efekti için geçiş süresi */
+}
+
+.card:hover {
+  transform: scale(1.05); /* Hover esnasında büyütme efekti */
+}
+
+.card img {
+  height: 150px; /* Kart resmi yüksekliği */
+  object-fit: cover; /* Resmi kapsayacak şekilde ayarla */
+}
+
+/* Başlık ayarları */
+h2 {
+  font-size: 1.5rem; /* Başlık boyutu */
+  text-align: center; /* Başlığı ortala */
+}
+
+/* Responsive ayarları */
+@media (max-width: 768px) {
+  .carousel-custom {
+    max-height: 200px; /* Küçük ekranlarda carousel yüksekliğini düşür */
+  }
+
+  .carousel-custom .carousel-item img {
+    height: 200px; /* Küçük ekranlarda resim yüksekliği */
+  }
+
+  .card {
+    max-width: 90%; /* Kartların genişliğini küçük ekranlarda artır */
+    height: auto; /* Yüksekliği otomatik yap */
+    margin: 5px auto; /* Kartları ortala */
+  }
+}
+
+@media (min-width: 769px) {
+  .card {
+    max-width: 250px; /* Kartların maksimum genişliği */
+  }
+}

@@ -1,0 +1,37 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch; /* İçeriği tam genişlikte yayar */
+  justify-content: flex-start;
+  min-height: 100vh;
+  width: 100%;
+}
+
+main {
+  width: 100%;
+  max-width: none; /* İçeriğin maksimum genişliğini kaldırdık */
+  padding: 1rem;  /* Padding'i 1rem'e düşürdük */
+  box-sizing: border-box;
+  margin: 80px auto 0 auto; /* Üstte navbar yüksekliği kadar boşluk bırakır */
+}
+
+.container {
+  width: 100%;
+  max-width: none; /* Maksimum genişlik sınırını kaldırdık */
+  padding: 1rem;  /* Padding'i 1rem'e düşürdük */
+  box-sizing: border-box;
+  margin: 0 auto; /* Otomatik yatay margin ile ortalar */
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 0.5rem; /* Küçük ekranlar için padding'i daha da azalttık */
+  }
+}

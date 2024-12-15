@@ -1,0 +1,112 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center; /* Yatayda ortala */
+  align-items: center; /* Dikeyde ortala */
+  background-color: #f4f4f4; /* Arka plan rengi */
+  font-family: Arial, sans-serif;
+}
+
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 60px); /* Navbar yüksekliğini çıkararak tam ekranı kullan */
+  width: 100%; /* Sayfanın tamamını kapla */
+}
+
+.form-wrapper {
+  max-width: 400px;
+  width: 100%;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.input-box {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.input-box input {
+  width: 100%;
+  padding: 10px;
+  padding-left: 40px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.input-box .icon {
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+  color: #aaa;
+  font-size: 18px;
+}
+
+button {
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  width: 100%;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.login-link {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.login-link p {
+  margin: 0;
+  color: #333;
+}
+
+.login-link a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.login-link a:hover {
+  text-decoration: underline;
+}
+
+/* Dinamik ekran boyutuna göre ayarlamalar */
+@media (min-width: 768px) {
+  .form-wrapper {
+    max-width: 500px;
+    padding: 30px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .form-wrapper {
+    max-width: 600px;
+  }
+
+  button {
+    padding: 12px;
+    font-size: 18px;
+  }
+}

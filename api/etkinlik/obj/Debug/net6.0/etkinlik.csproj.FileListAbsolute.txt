@@ -1,0 +1,195 @@
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\appsettings.json
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\etkinlik.exe
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\etkinlik.deps.json
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\etkinlik.runtimeconfig.json
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\etkinlik.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\etkinlik.pdb
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\Humanizer.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.csproj.AssemblyReference.cache
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.AssemblyInfoInputs.cache
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.AssemblyInfo.cs
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets\msbuild.etkinlik.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets\msbuild.build.etkinlik.props
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.etkinlik.props
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.etkinlik.props
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\scopedcss\bundle\etkinlik.styles.css
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.csproj.Up2Date
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\refint\etkinlik.dll
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.pdb
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.genruntimeconfig.cache
+C:\Users\MEHMET EMİN\Source\Repos\etkinlik\etkinlik\obj\Debug\net6.0\ref\etkinlik.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\appsettings.json
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\etkinlik.exe
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\etkinlik.deps.json
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\etkinlik.runtimeconfig.json
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\etkinlik.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\etkinlik.pdb
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\Humanizer.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.csproj.AssemblyReference.cache
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.AssemblyInfoInputs.cache
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.AssemblyInfo.cs
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.csproj.CoreCompileInputs.cache
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets\msbuild.etkinlik.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets\msbuild.build.etkinlik.props
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.etkinlik.props
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.etkinlik.props
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\scopedcss\bundle\etkinlik.styles.css
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.csproj.Up2Date
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\refint\etkinlik.dll
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.pdb
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.genruntimeconfig.cache
+C:\Users\dilara kahraman\Desktop\etkinlik\etkinlik\obj\Debug\net6.0\ref\etkinlik.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\appsettings.json
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\etkinlik.exe
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\etkinlik.deps.json
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\etkinlik.runtimeconfig.json
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\etkinlik.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\etkinlik.pdb
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\Humanizer.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.csproj.AssemblyReference.cache
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.AssemblyInfoInputs.cache
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.AssemblyInfo.cs
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.csproj.CoreCompileInputs.cache
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets\msbuild.etkinlik.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets\msbuild.build.etkinlik.props
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.etkinlik.props
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.etkinlik.props
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\scopedcss\bundle\etkinlik.styles.css
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.csproj.Up2Date
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\refint\etkinlik.dll
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.pdb
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\etkinlik.genruntimeconfig.cache
+C:\Users\dilara kahraman\Desktop\Staj Projesi\etkinlik\etkinlik\obj\Debug\net6.0\ref\etkinlik.dll

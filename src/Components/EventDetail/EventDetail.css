@@ -1,0 +1,74 @@
+/* EventDetail.css */
+
+.event-detail-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.event-detail-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.event-detail-header img {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.event-detail-header h1 {
+  font-size: 2.5em;
+  margin-top: 20px;
+  color: #333;
+}
+
+.event-detail-info {
+  margin-top: 20px;
+  line-height: 1.8;
+}
+
+.event-detail-info p {
+  font-size: 1.2em;
+}
+
+.event-detail-info strong {
+  color: #007bff;
+}
+
+.price-tag {
+  color: #28a745;
+  font-size: 1.5em;
+}
+
+.loading {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.error-message {
+  font-size: 1.5em;
+  text-align: center;
+  color: red;
+}
+/* Sepete Ekle Butonu Stili */
+.add-to-cart-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.add-to-cart-btn:hover {
+  background-color: #0056b3;
+}

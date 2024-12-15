@@ -1,0 +1,73 @@
+.cart-container {
+  padding: 30px;
+  background-color: #ffffff; /* Daha temiz bir arka plan */
+  border: 1px solid #e0e0e0; /* Daha açık bir kenar rengi */
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Hafif bir gölge efekti */
+}
+
+.cart-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 15px;
+  background-color: #f8f8f8; /* Daha açık bir arka plan */
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  transition: transform 0.2s; /* Hover efekti için geçiş */
+}
+
+.cart-item:hover {
+  transform: translateY(-2px); /* Hoverda yukarı kaydırma efekti */
+}
+
+.cart-item-image {
+  width: 100px; /* Resim boyutunu artırma */
+  height: 100px;
+  margin-right: 20px;
+  border-radius: 8px; /* Daha yuvarlak köşeler */
+  object-fit: cover; /* Resmi kapsama */
+}
+
+.cart-item-details {
+  flex-grow: 1;
+}
+
+.remove-button {
+  background-color: #e74c3c; /* Kırmızı buton rengi */
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s; /* Hover geçişi */
+}
+
+.remove-button:hover {
+  background-color: #c0392b; /* Koyu kırmızı hover rengi */
+}
+
+.total-price {
+  margin-top: 30px; /* Üstteki alanı artırma */
+  font-size: 1.5em; /* Yazı boyutunu artırma */
+  font-weight: bold; /* Kalın yazı stili */
+}
+
+.checkout-button {
+  margin-top: 20px; /* Üstteki alanı artırma */
+  padding: 12px 25px;
+  background-color: #3498db; /* Mavi buton rengi */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s; /* Hover geçişi */
+}
+
+.checkout-button:hover {
+  background-color: #2980b9; /* Koyu mavi hover rengi */
+}
+.cart-container h2 {
+  color: black; /* Rengi kontrol edin */
+  display: block; /* Görünürlük ayarını kontrol edin */
+}

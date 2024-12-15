@@ -1,0 +1,71 @@
+.create-event-form {
+  max-width: 500px; 
+  margin: 20px auto; 
+  padding: 15px; 
+  border-radius: 8px; 
+  background-color: #ffffff; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  margin-top: 60px; /* Navbarın altında görünmesi için üst boşluk */
+}
+
+.create-event-form h2 {
+  text-align: center; /* Başlığı ortala */
+  margin-bottom: 15px; /* Başlık altındaki boşluk */
+  color: #007BFF; /* Başlık rengi */
+  font-size: 20px; /* Başlık boyutu */
+}
+
+.form-group {
+  margin-bottom: 10px; /* Form grubu altındaki boşluk */
+}
+
+.form-group label {
+  display: block; /* Etiketleri blok olarak göster */
+  margin-bottom: 4px; /* Etiket altındaki boşluk */
+  font-weight: bold; /* Kalın etiketler */
+  color: #333; /* Etiket rengi */
+}
+
+.form-group input {
+  width: 100%; /* Giriş kutusunun tam genişliği */
+  padding: 8px; /* İç boşluk */
+  border: 1px solid #ccc; /* Kenar rengi */
+  border-radius: 4px; /* Kenar yuvarlama */
+  font-size: 14px; /* Giriş kutusu font boyutu */
+  transition: border-color 0.3s; /* Kenar rengi değişimi için geçiş efekti */
+}
+
+.form-group input:focus {
+  border-color: #007BFF; /* Giriş kutusu odaklandığında kenar rengi */
+  outline: none; /* Kenar çizgisi kaldır */
+}
+
+.submit-button {
+  width: 100%; /* Butonun tam genişliği */
+  padding: 8px; /* İç boşluk */
+  background-color: #007BFF; /* Buton arka plan rengi */
+  color: white; /* Yazı rengi */
+  border: none; /* Kenar çizgisi yok */
+  border-radius: 4px; /* Kenar yuvarlama */
+  font-size: 14px; /* Buton font boyutu */
+  cursor: pointer; /* İmleç değişimi */
+  transition: background-color 0.3s; /* Arka plan rengi değişimi için geçiş efekti */
+}
+
+.submit-button:hover {
+  background-color: #0056b3; /* Buton üzerine gelindiğinde arka plan rengi */
+}
+
+/* Hata mesajları için stil */
+.error-message {
+  color: red; /* Hata mesajı rengi */
+  margin-top: 5px; /* Hata mesajı üst boşluğu */
+  font-size: 12px; /* Hata mesajı font boyutu */
+}
+
+/* Bilgilendirme mesajları için stil */
+.success-message {
+  color: green; /* Başarı mesajı rengi */
+  margin-top: 5px; /* Başarı mesajı üst boşluğu */
+  font-size: 12px; /* Başarı mesajı font boyutu */
+}

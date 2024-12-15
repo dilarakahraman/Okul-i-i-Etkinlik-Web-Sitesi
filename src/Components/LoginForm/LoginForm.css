@@ -1,0 +1,35 @@
+/* LoginForm.css */
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Form alanlarını ortalar */
+  max-width: 400px; /* Form genişliğini ayarlayın */
+  margin: 0 auto; /* Ortalaması için margin ayarı */
+  padding: 20px; /* İç boşluk */
+  border: 1px solid #ccc; /* Kenarlık */
+  border-radius: 5px; /* Kenarları yuvarlat */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Gölgelendirme */
+  background-color: #f9f9f9; /* Arka plan rengi */
+}
+
+input {
+  width: 100%; /* Genişliği tam ayarla */
+  padding: 10px; /* İç boşluk */
+  margin: 10px 0; /* Üst ve alt boşluk */
+  border: 1px solid #ccc; /* Kenarlık */
+  border-radius: 4px; /* Kenarları yuvarlat */
+}
+
+button {
+  padding: 10px; /* İç boşluk */
+  background-color: #007BFF; /* Buton arka plan rengi */
+  color: white; /* Buton yazı rengi */
+  border: none; /* Kenar yok */
+  border-radius: 4px; /* Kenar yuvarlama */
+  cursor: pointer; /* İmleci el simgesine çevir */
+}
+
+button:hover {
+  background-color: #0056b3; /* Hover durumu için renk değişimi */
+}

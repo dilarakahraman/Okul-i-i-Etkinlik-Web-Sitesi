@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|c:\\users\\mehmet em\u0130n\\source\\repos\\etkinlik\\etkinlik\\dto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|solutionrelative:etkinlik\\dto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|c:\\users\\mehmet em\u0130n\\source\\repos\\etkinlik\\etkinlik\\dto\\createeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|solutionrelative:etkinlik\\dto\\createeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|c:\\users\\mehmet em\u0130n\\source\\repos\\etkinlik\\etkinlik\\controllers\\usersigncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|solutionrelative:etkinlik\\controllers\\usersigncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|c:\\users\\mehmet em\u0130n\\source\\repos\\etkinlik\\etkinlik\\controllers\\etkinlikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|solutionrelative:etkinlik\\controllers\\etkinlikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|c:\\users\\mehmet em\u0130n\\source\\repos\\etkinlik\\etkinlik\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|solutionrelative:etkinlik\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|c:\\users\\mehmet em\u0130n\\source\\repos\\etkinlik\\etkinlik\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|solutionrelative:etkinlik\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|c:\\users\\mehmet em\u0130n\\source\\repos\\etkinlik\\etkinlik\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|solutionrelative:etkinlik\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|c:\\users\\mehmet em\u0130n\\source\\repos\\etkinlik\\etkinlik\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|solutionrelative:etkinlik\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|c:\\users\\mehmet em\u0130n\\source\\repos\\etkinlik\\etkinlik\\models\\eventtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|solutionrelative:etkinlik\\models\\eventtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|c:\\users\\mehmet em\u0130n\\source\\repos\\etkinlik\\etkinlik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|solutionrelative:etkinlik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|c:\\users\\mehmet em\u0130n\\source\\repos\\etkinlik\\etkinlik\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|solutionrelative:etkinlik\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|c:\\users\\mehmet em\u0130n\\source\\repos\\etkinlik\\etkinlik\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|solutionrelative:etkinlik\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|c:\\users\\mehmet em\u0130n\\source\\repos\\etkinlik\\etkinlik\\migrations\\20240711133823_anasayfaguncel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F03D76E-D688-4439-9301-EDCB5E0F026A}|etkinlik\\etkinlik.csproj|solutionrelative:etkinlik\\migrations\\20240711133823_anasayfaguncel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserSignController.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Controllers\\UserSignController.cs",
+              "RelativeDocumentMoniker": "etkinlik\\Controllers\\UserSignController.cs",
+              "ToolTip": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Controllers\\UserSignController.cs",
+              "RelativeToolTip": "etkinlik\\Controllers\\UserSignController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:33:13.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\DTO\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "etkinlik\\DTO\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\DTO\\LoginUserDto.cs",
+              "RelativeToolTip": "etkinlik\\DTO\\LoginUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:52:24.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EtkinlikController.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Controllers\\EtkinlikController.cs",
+              "RelativeDocumentMoniker": "etkinlik\\Controllers\\EtkinlikController.cs",
+              "ToolTip": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Controllers\\EtkinlikController.cs",
+              "RelativeToolTip": "etkinlik\\Controllers\\EtkinlikController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:32:41.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\appsettings.json",
+              "RelativeDocumentMoniker": "etkinlik\\appsettings.json",
+              "ToolTip": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\appsettings.json",
+              "RelativeToolTip": "etkinlik\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T11:32:20.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateEventDto.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\DTO\\CreateEventDto.cs",
+              "RelativeDocumentMoniker": "etkinlik\\DTO\\CreateEventDto.cs",
+              "ToolTip": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\DTO\\CreateEventDto.cs",
+              "RelativeToolTip": "etkinlik\\DTO\\CreateEventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:55:05.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Models\\User.cs",
+              "RelativeDocumentMoniker": "etkinlik\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Models\\User.cs",
+              "RelativeToolTip": "etkinlik\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:36:03.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Models\\EventTransaction.cs",
+              "RelativeDocumentMoniker": "etkinlik\\Models\\EventTransaction.cs",
+              "ToolTip": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Models\\EventTransaction.cs",
+              "RelativeToolTip": "etkinlik\\Models\\EventTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:35:47.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "etkinlik\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Models\\Event.cs",
+              "RelativeToolTip": "etkinlik\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:35:27.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "etkinlik\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Models\\Cart.cs",
+              "RelativeToolTip": "etkinlik\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:35:03.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Program.cs",
+              "RelativeDocumentMoniker": "etkinlik\\Program.cs",
+              "ToolTip": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Program.cs",
+              "RelativeToolTip": "etkinlik\\Program.cs",
+              "ViewState": "AQIAAAgAAADAMjMzM5MwwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:36:53.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "etkinlik\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Properties\\launchSettings.json",
+              "RelativeToolTip": "etkinlik\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T15:10:08.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240711133823_anasayfaguncel.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Migrations\\20240711133823_anasayfaguncel.cs",
+              "RelativeDocumentMoniker": "etkinlik\\Migrations\\20240711133823_anasayfaguncel.cs",
+              "ToolTip": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Migrations\\20240711133823_anasayfaguncel.cs",
+              "RelativeToolTip": "etkinlik\\Migrations\\20240711133823_anasayfaguncel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:38:23.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "etkinlik\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\MEHMET EM\u0130N\\Source\\Repos\\etkinlik\\etkinlik\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "etkinlik\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:48:58.268Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
